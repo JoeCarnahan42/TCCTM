@@ -1,0 +1,3 @@
+Style blog post section
+Fix navigation links
+begin work on about me section

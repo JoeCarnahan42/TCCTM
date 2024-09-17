@@ -1,0 +1,22 @@
+body {
+  background-color: gray;
+}
+
+header {
+  text-align: center;
+  background-color: rgba(119, 13, 13, 0.425);
+}
+
+#about-me,
+#blog-posts,
+#contact {
+  width: 200px;
+  border: 1px solid;
+  padding: 5px;
+}
+
+.navigation-bar {
+  background-size: cover;
+  display: inline-flex;
+  margin-top: -50px;
+}
