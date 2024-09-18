@@ -20,3 +20,41 @@ header {
   display: inline-flex;
   margin-top: -50px;
 }
+
+.about-me-content {
+  overflow-wrap: break-word;
+  display: inline-block;
+  width: 400px;
+  vertical-align: top;
+  font-size: 105%;
+}
+
+.about-me {
+  text-align: center;
+}
+
+.family-content {
+  margin-left: 200px;
+  margin-right: 200px;
+  font-size: 105%;
+}
+
+a:link {
+  color: black;
+}
+
+a:hover {
+  color: rgba(119, 13, 13, 0.425);
+}
+
+a:visited {
+  color: black;
+}
+
+.builds-heading {
+  text-align: center;
+}
+
+.build-images {
+  text-align: center;
+}
