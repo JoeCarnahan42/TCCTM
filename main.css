@@ -66,3 +66,19 @@ footer {
   margin-right: auto;
   max-width: 700px;
 }
+
+.blog-post-list {
+  display: table;
+  margin: 0 auto;
+}
+
+.blog-posts {
+  border: medium solid;
+  border-width: 2px;
+}
+
+#container {
+  max-width: 900px;
+  text-indent: 50px;
+  margin: auto;
+}
