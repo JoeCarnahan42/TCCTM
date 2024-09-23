@@ -90,3 +90,12 @@ footer {
   text-indent: 50px;
   margin: auto;
 }
+
+#likes {
+  width: 300px;
+  margin: 0 auto;
+}
+
+#like-button {
+  background-color: rgb(153, 47, 47);
+}

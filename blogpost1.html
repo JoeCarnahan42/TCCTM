@@ -38,11 +38,11 @@
         <h4><u>Thank you for reading...</u></h4>
         <p>If you made it this far, I sincerely thank you. This is hopefully the first of many posts, and I hope this was a decent intro to myself and how things are starting off as this site launches. Hope to see you back, and have an awesome rest of your day.</p>
     </div>
-    <form>
-      <h1><u>Comments:</u></h1>
-      <input id="name-input" type="text" placeholder="Your name:" required>
-      <textarea id="comment-message" placeholder="Comment here..." required></textarea>
-    </form>
+    <div id="likes">
+      <button id="like-button" onclick="addLike()"><u>Like Post</u></button>
+      <h4 id="like-count">Likes: 0</h4>
+    </div>  
+    <script src="main.js"></script>
   </body>
   <footer>
     <h1 id="primary-contact"></h1>
