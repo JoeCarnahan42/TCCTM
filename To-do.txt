@@ -1,8 +1,0 @@
-Style blog post section
-    Decide how to display blog posts:
-      1. Directly on page
-      2. Link to seperate page
-Fix navigation links
-begin work on about me section
-
-Perhaps have all navigation links go to seperate pages??
